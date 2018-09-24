@@ -1,0 +1,3 @@
+# zuul的相关配置
+zuul:
+  sensitive-headers:
